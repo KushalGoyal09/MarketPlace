@@ -1,0 +1,298 @@
+[
+    {
+        "productName": "Smartphone X",
+        "productDescription": "A cutting-edge smartphone with advanced features.",
+        "productPrice": 799.99,
+        "productQuantity": 100,
+        "productCategory": "Electronics",
+        "productBrand": "TechCo"
+    },
+    {
+        "productName": "Laptop Pro",
+        "productDescription": "Powerful laptop for professionals.",
+        "productPrice": 1299.99,
+        "productQuantity": 50,
+        "productCategory": "Electronics",
+        "productBrand": "TechGiant"
+    },
+    {
+        "productName": "Wireless Headphones",
+        "productDescription": "High-quality wireless headphones for immersive audio experience.",
+        "productPrice": 149.99,
+        "productQuantity": 200,
+        "productCategory": "Electronics",
+        "productBrand": "SoundTech"
+    },
+    {
+        "productName": "Coffee Maker Deluxe",
+        "productDescription": "State-of-the-art coffee maker for coffee enthusiasts.",
+        "productPrice": 99.99,
+        "productQuantity": 75,
+        "productCategory": "Kitchen",
+        "productBrand": "HomeCafe"
+    },
+    {
+        "productName": "Fitness Tracker",
+        "productDescription": "Track your fitness goals with this advanced fitness tracker.",
+        "productPrice": 79.99,
+        "productQuantity": 150,
+        "productCategory": "Electronics",
+        "productBrand": "FitGear"
+    },
+    {
+        "productName": "Designer Watch",
+        "productDescription": "Elegant designer watch for both formal and casual occasions.",
+        "productPrice": 299.99,
+        "productQuantity": 100,
+        "productCategory": "Fashion",
+        "productBrand": "LuxTime"
+    },
+    {
+        "productName": "Bluetooth Speaker",
+        "productDescription": "Portable Bluetooth speaker for music lovers.",
+        "productPrice": 69.99,
+        "productQuantity": 120,
+        "productCategory": "Electronics",
+        "productBrand": "SoundWave"
+    },
+    {
+        "productName": "Electric Toothbrush",
+        "productDescription": "Keep your teeth clean and healthy with this electric toothbrush.",
+        "productPrice": 49.99,
+        "productQuantity": 80,
+        "productCategory": "Health & Personal Care",
+        "productBrand": "DentaCare"
+    },
+    {
+        "productName": "Digital Camera",
+        "productDescription": "Capture your precious moments with this high-resolution digital camera.",
+        "productPrice": 499.99,
+        "productQuantity": 60,
+        "productCategory": "Electronics",
+        "productBrand": "CaptureIt"
+    },
+    {
+        "productName": "Leather Wallet",
+        "productDescription": "Stylish leather wallet with multiple compartments.",
+        "productPrice": 39.99,
+        "productQuantity": 90,
+        "productCategory": "Fashion",
+        "productBrand": "LeatherCraft"
+    },
+    {
+        "productName": "Cookware Set",
+        "productDescription": "Complete cookware set for your kitchen needs.",
+        "productPrice": 199.99,
+        "productQuantity": 40,
+        "productCategory": "Kitchen",
+        "productBrand": "KitchenMaster"
+    },
+    {
+        "productName": "Gaming Mouse",
+        "productDescription": "Precision gaming mouse for enhanced gaming experience.",
+        "productPrice": 59.99,
+        "productQuantity": 100,
+        "productCategory": "Electronics",
+        "productBrand": "GamePro"
+    },
+    {
+        "productName": "Sneakers",
+        "productDescription": "Comfortable sneakers for everyday wear.",
+        "productPrice": 79.99,
+        "productQuantity": 150,
+        "productCategory": "Fashion",
+        "productBrand": "SportFit"
+    },
+    {
+        "productName": "Yoga Mat",
+        "productDescription": "High-quality yoga mat for yoga enthusiasts.",
+        "productPrice": 29.99,
+        "productQuantity": 200,
+        "productCategory": "Fitness",
+        "productBrand": "YogaLife"
+    },
+    {
+        "productName": "Power Bank",
+        "productDescription": "Portable power bank for charging your devices on the go.",
+        "productPrice": 29.99,
+        "productQuantity": 150,
+        "productCategory": "Electronics",
+        "productBrand": "ChargeUp"
+    },
+    {
+        "productName": "Desk Lamp",
+        "productDescription": "Adjustable desk lamp for your workspace.",
+        "productPrice": 49.99,
+        "productQuantity": 100,
+        "productCategory": "Home & Office",
+        "productBrand": "BrightLight"
+    },
+    {
+        "productName": "Stainless Steel Water Bottle",
+        "productDescription": "Reusable water bottle to keep you hydrated throughout the day.",
+        "productPrice": 19.99,
+        "productQuantity": 250,
+        "productCategory": "Health & Personal Care",
+        "productBrand": "EcoHydrate"
+    },
+    {
+        "productName": "Portable Blender",
+        "productDescription": "Blend your favorite smoothies on the go with this portable blender.",
+        "productPrice": 39.99,
+        "productQuantity": 80,
+        "productCategory": "Kitchen",
+        "productBrand": "BlendPro"
+    },
+    {
+        "productName": "Wireless Charger",
+        "productDescription": "Convenient wireless charger for your compatible devices.",
+        "productPrice": 24.99,
+        "productQuantity": 120,
+        "productCategory": "Electronics",
+        "productBrand": "ChargeEase"
+    },
+    {
+        "productName": "Dumbbell Set",
+        "productDescription": "Set of dumbbells for strength training at home.",
+        "productPrice": 89.99,
+        "productQuantity": 100,
+        "productCategory": "Fitness",
+        "productBrand": "FitGear"
+    },
+    {
+        "productName": "Travel Backpack",
+        "productDescription": "Durable travel backpack with multiple compartments.",
+        "productPrice": 69.99,
+        "productQuantity": 150,
+        "productCategory": "Travel",
+        "productBrand": "TravelEase"
+    },
+    {
+        "productName": "Sunglasses",
+        "productDescription": "Stylish sunglasses to protect your eyes from the sun.",
+        "productPrice": 49.99,
+        "productQuantity": 200,
+        "productCategory": "Fashion",
+        "productBrand": "SunShade"
+    },
+    {
+        "productName": "Resistance Bands",
+        "productDescription": "Versatile resistance bands for strength and flexibility training.",
+        "productPrice": 19.99,
+        "productQuantity": 120,
+        "productCategory": "Fitness",
+        "productBrand": "FlexFit"
+    },
+    {
+        "productName": "Non-Stick Cookware Set",
+        "productDescription": "Complete non-stick cookware set for hassle-free cooking.",
+        "productPrice": 149.99,
+        "productQuantity": 60,
+        "productCategory": "Kitchen",
+        "productBrand": "NonStickMaster"
+    },
+    {
+        "productName": "Smartwatch",
+        "productDescription": "Stay connected and track your fitness with this smartwatch.",
+        "productPrice": 199.99,
+        "productQuantity": 100,
+        "productCategory": "Electronics",
+        "productBrand": "TechWear"
+    },
+    {
+        "productName": "Wireless Earbuds",
+        "productDescription": "True wireless earbuds for an immersive listening experience.",
+        "productPrice": 129.99,
+        "productQuantity": 150,
+        "productCategory": "Electronics",
+        "productBrand": "AudioSync"
+    },
+    {
+        "productName": "Handheld Vacuum Cleaner",
+        "productDescription": "Compact handheld vacuum cleaner for quick cleanups.",
+        "productPrice": 79.99,
+        "productQuantity": 80,
+        "productCategory": "Home & Kitchen",
+        "productBrand": "CleanPro"
+    },
+    {
+        "productName": "Digital Scale",
+        "productDescription": "Accurate digital scale for precise measurements in the kitchen.",
+        "productPrice": 29.99,
+        "productQuantity": 100,
+        "productCategory": "Kitchen",
+        "productBrand": "ScaleMaster"
+    },
+    {
+        "productName": "Back Massager",
+        "productDescription": "Relax and relieve muscle tension with this back massager.",
+        "productPrice": 49.99,
+        "productQuantity": 120,
+        "productCategory": "Health & Personal Care",
+        "productBrand": "RelaxPro"
+    },
+    {
+        "productName": "Running Shoes",
+        "productDescription": "Lightweight and comfortable running shoes for your workouts.",
+        "productPrice": 89.99,
+        "productQuantity": 150,
+        "productCategory": "Fitness",
+        "productBrand": "RunFit"
+    },
+    {
+        "productName": "Portable Speaker",
+        "productDescription": "Compact portable speaker for music on the go.",
+        "productPrice": 34.99,
+        "productQuantity": 200,
+        "productCategory": "Electronics",
+        "productBrand": "MusicMate"
+    },
+    {
+        "productName": "Camping Tent",
+        "productDescription": "Spacious camping tent for outdoor adventures.",
+        "productPrice": 149.99,
+        "productQuantity": 50,
+        "productCategory": "Outdoor",
+        "productBrand": "CampLife"
+    },
+    {
+        "productName": "Travel Mug",
+        "productDescription": "Insulated travel mug to keep your beverages hot or cold.",
+        "productPrice": 19.99,
+        "productQuantity": 250,
+        "productCategory": "Travel",
+        "productBrand": "TravelBrew"
+    },
+    {
+        "productName": "Hiking Backpack",
+        "productDescription": "Durable hiking backpack with ample storage space.",
+        "productPrice": 79.99,
+        "productQuantity": 100,
+        "productCategory": "Outdoor",
+        "productBrand": "HikeGear"
+    },
+    {
+        "productName": "Stainless Steel Cookware Set",
+        "productDescription": "Premium stainless steel cookware set for professional cooking.",
+        "productPrice": 249.99,
+        "productQuantity": 70,
+        "productCategory": "Kitchen",
+        "productBrand": "ChefMaster"
+    },
+    {
+        "productName": "Smart Thermostat",
+        "productDescription": "Programmable smart thermostat for energy-efficient heating and cooling.",
+        "productPrice": 129.99,
+        "productQuantity": 80,
+        "productCategory": "Home & Kitchen",
+        "productBrand": "SmartTemp"
+    },
+    {
+        "productName": "Hammock",
+        "productDescription": "Relax and unwind in this comfortable hammock.",
+        "productPrice": 59.99,
+        "productQuantity": 120,
+        "productCategory": "Outdoor",
+        "productBrand": "RelaxationZone"
+    }
+]
